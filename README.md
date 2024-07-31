@@ -1,2 +1,2 @@
-# SQL Project
+# SQL Project AdventureWorks (bicycle company)
  
